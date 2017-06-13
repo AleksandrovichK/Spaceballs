@@ -6,16 +6,11 @@ import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
 import android.graphics.Point;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.MotionEvent;
-import android.view.SurfaceHolder;
-import android.view.SurfaceView;
-import android.view.View;
-import android.view.WindowManager;
+import android.support.v7.app.AppCompatActivity;
 
 import java.util.Vector;
-
+//sfsdlgsan
 public class Main extends AppCompatActivity{
     private Vector<Circle> circles = new Vector<Circle>();
     private Canvas canvas = new Canvas();
